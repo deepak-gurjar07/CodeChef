@@ -10,7 +10,6 @@ Chef will choose whichever style has the lower total cost. How much will Chef pa
 using namespace std;
 
 int main() {
-	// your code goes here
 	int t;
 	cin>>t;
 	while(t--){
